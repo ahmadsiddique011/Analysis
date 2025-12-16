@@ -4,11 +4,6 @@ This repository contains the complete and reproducible statistical analysis for 
 
 ---
 
-## Repository Structure
-
-
----
-
 ## Dataset
 
 - **File:** `cycling.txt`
